@@ -12,7 +12,7 @@ function Layout({ children }) {
       </header>
       <div className={styles.container}>{children}</div>
       <footer className={styles.footer}>
-        <a href="https://botostart.ir" target="_blank">
+        <a href="https://botostart.ir" target="_blank" rel="noreferrer">
           Botostart
         </a>{" "}
         Next.js courses | BotoCar Project &copy;
