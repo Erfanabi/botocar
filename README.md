@@ -4,7 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## About The Project
 
-- [Demo Project](https://botocar.liara.run/)
+- ✅ [Demo Project](https://botocar-alpha.vercel.app/)
+- ✅ [Demo Project](https://botocar.liara.run/)
+
 
 ### Built With
 
